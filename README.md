@@ -261,7 +261,7 @@ _(stackblitz example)_
         }      
 
 
-![PROGRESS](https://raw.githubusercontent.com/navegador5/nv-angular-action-mat-button/master/Images/state.png)
+![PROGRESS](https://raw.githubusercontent.com/navegador5/nv-angular-action-mat-button/master/Images/st.png)
          
 ## API
 
